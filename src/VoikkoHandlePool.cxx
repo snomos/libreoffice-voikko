@@ -77,6 +77,7 @@ static Bcp47ToOOoMapping const bcpToOOoMapping[] = {
 	{"es-MX", "es", "MX"},
 	{"et", "et", "EE"},
 	{"eu", "eu", ""},
+	{"evn-RU", "evn", "RU"},
 	{"fa", "fa", "IR"},
 	{"fi", "fi", "FI"},
 	{"fo", "fo", "FO"},
