@@ -196,6 +196,7 @@ BCP_TO_LO_MAPPING = [
 	Bcp47ToLoMapping("oc",	"oc",	"FR"), \
 	Bcp47ToLoMapping("olo",	"olo",	"RU"), \
 	Bcp47ToLoMapping("or",	"or",	"IN"), \
+	Bcp47ToLoMapping("otw",	"otw",	"CA"), \
 	Bcp47ToLoMapping("pa",	"pa",	"IN"), \
 	Bcp47ToLoMapping("pa",	"pa",	"PK"), \
 	Bcp47ToLoMapping("pap-BQ",	"pap",	"BQ"), \
